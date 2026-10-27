@@ -32,7 +32,7 @@
 
 ### 📊 Динамическая статистика
 <!-- Карточка статистики генерируется на лету и имеет легкую анимацию появления -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНЕЙМ&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewjohnoson&show_icons=true&theme=radical&hide_border=true)
 
 <!-- Блок со змейкой. Если вы еще не настроили GitHub Actions, эта картинка пока не появится -->
 <picture>
