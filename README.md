@@ -27,5 +27,3 @@
 ![Multithreading](https://img.shields.io/badge/Concurrency-FF5722?style=flat-square&logo=apache&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-8BC767?style=flat-square&logo=databricks&logoColor=white)
-
-<br>
