@@ -29,14 +29,3 @@
 ![Mockito](https://img.shields.io/badge/Mockito-8BC767?style=flat-square&logo=databricks&logoColor=white)
 
 <br>
-
-### 📊 Динамическая статистика
-<!-- Карточка статистики генерируется на лету и имеет легкую анимацию появления -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrewjohnoson&show_icons=true&theme=radical&hide_border=true)
-
-<!-- Блок со змейкой. Если вы еще не настроили GitHub Actions, эта картинка пока не появится -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrewjohnoson/andrewjohnoson/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrewjohnoson/andrewjohnoson/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrewjohnoson/andrewjohnoson/output/github-contribution-grid-snake.svg">
-</picture>
